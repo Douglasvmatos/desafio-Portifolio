@@ -1,6 +1,6 @@
 # Rocket Portfolio
 > @rocketseat challenge for front-end beginners: Landing page layout development for Rocket Portfolio.
-<img src="./assets/gif-desafioRocketNFT.gif" width="100%">
+![portfolio](https://user-images.githubusercontent.com/105434742/178136670-20615102-a203-43db-aef9-5a512b72d45e.gif)
 
 # Links
 <a href="https://app.rocketseat.com.br/discover/challenges/rocket-nfts">Challenge</a>
